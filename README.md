@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Mauricio Montenegro from Brazil. I'm passionate about the tech scene with experiences in engineering, planning, budgeting, cost analysis and management of projects. In 2020, after knowing the programming and as a dynamic and multidisciplinary professional, I decided to follow the greatest challenge of my career: become a fullstack developer.
+My name is Mauricio Montenegro from Brazil. I'm passionate about the tech scene with experiences in engineering, planning, budgeting, cost analysis and management of projects. In 2020, after knowing the programming and as a dynamic and multidisciplinary professional, I decided to follow the greatest challenge of my career: become a data scientist.
 
 You are more than welcome to check my projects in my repositories.
 
